@@ -1,0 +1,233 @@
+/* FONTS */
+
+/* VARIABLES */
+:root {
+    --c-brand: #E43C5C;
+    --c-brand-rgb: 228, 60, 91;
+    --c-dark: #444;
+}
+
+/* RESET & HELPERS */
+*{
+    box-sizing: border-box;
+    
+}
+body {
+    font-family: var(--font-base);
+    line-height: 1.7;
+    color: var(--c-body);
+}
+
+a {
+
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    font-weight: 600;
+}
+
+.section-padding {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+/* HEADER */
+header {
+    background: linear-gradient(rgba(6, 6, 6, 0.5), rgba(6, 6, 6, 0.5)), url('/images/teratak.jpg');
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #f1f1f1;
+}
+
+header div p {
+    background-color: rgba(128, 128, 128, 0.432);
+    display: inline-block;
+    width: 30%;
+    padding: 10px 0;
+    border-radius: 50px;
+    font-size: 20px;
+}
+
+header div h1 {
+    font-size: 48px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header div a.btn-get-started {
+    color: rgb(255, 255, 255);
+    border: 2px solid #fff;
+    border-radius: 50px;
+    font-size: 23px;
+    padding: 10px 30px;
+    transition: 0.3s;
+}
+
+header div a.btn-get-started:hover {
+    background-color: var(--c-brand);
+    border-color: var(--c-brand);
+}
+
+/* PROMOSI */
+#promosi h1 {
+    color: var(--c-dark);
+    text-transform: capitalize;
+    text-align: center;
+}
+
+#promosi h1 span {
+    color: var(--c-brand);
+}
+
+.services .icon-box {
+    position: relative;
+    box-shadow: rgba(68, 88, 144, 0.12) 2px 0px 35px 0px;
+    z-index: 1;
+    text-align: center;
+    padding: 30px;
+    min-height: 250px;
+    overflow: hidden;
+    background: rgb(255, 254, 255);
+    transition: all 0.3s ease-in-out 0s;
+    border-radius: 8px;
+
+}
+
+.services .icon-box:hover .description,
+.services .icon-box:hover .description strong,
+.services .icon-box:hover .icon svg {
+    color: #fff;
+}
+
+.services .icon-box:hover::before {
+    background: #e43c5c;
+    top: 0;
+    border-radius: 0px;
+}
+
+.services .icon-box::before {
+    content: "";
+    position: absolute;
+    background: #fdeff2;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    top: 100%;
+    transition: all 0.4s;
+    z-index: -1;
+}
+
+.services .icon-box .icon svg {
+    color: var(--c-brand);
+    height: 59px;
+    width: 60px;
+}
+
+.services .icon-box .icon {
+    margin-bottom: 15px;
+}
+
+.services .description {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+
+.services .description strong {
+    color: var(--c-brand);
+}
+
+
+/* HERO */
+#hero{
+    background: linear-gradient( rgba(0, 0, 0, 0.563),  rgba(0, 0, 0, 0.563)), url('/images/img.jpg') center no-repeat;
+    background-size: cover;
+}
+
+/* CONTACT */
+#contact h1 span{
+    color: var(--c-brand);
+}
+
+.contact-details span {
+    color: var(--c-brand);
+    width: 80px;
+    height: 80px;
+    background: rgba(var(--c-brand-rgb),0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    transition: all 0.3s ease-in-out 0s;
+}
+
+.contact-details span:hover {
+    color: rgb(255, 255, 255);
+    background-color: var(--c-brand);
+}
+
+#mail {
+
+    color: var(--c-dark);
+}
+
+#mail:hover {
+    color: var(--c-brand);
+}
+
+
+/* FOOTER */
+footer {
+    border-top: 5px solid var(--c-brand);
+    text-align: center;
+    color: #9f9b9b;
+
+}
+
+/* WHATSAPP BUTTON */
+.dmkt-whatsapp-button {
+    position: fixed;
+    bottom: 60px;
+    right: 20px;
+    z-index: 1000;
+}
+
+.dmkt-whatsapp-button a {
+    background-color: #25D366;
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 50px;
+}
+
+.dmkt-whatsapp-button span svg {
+    color: #ffffff;
+    margin-right: 10px;
+    height: 20px;
+    width: 20px;
+}
+
+.dmkt-whatsapp-button:hover {
+    opacity: 0.8;
+}
