@@ -1,6 +1,6 @@
 # Teratak Himpunan ASB - Découvrez les Services Marketing 🚀
 
-Bienvenue sur le site du *Teratak Himpunan ASB* ! Explorez les compétences et les services d'un marketeur malaisien passionné. Découvrez le [portfolio](https://lecoderon.github.io/Teratak-Himpunan-asb-financing/)
+Bienvenue sur le site du *Teratak Himpunan ASB* ! Explorez les compétences et les services d'un marketeur malaisien passionné. Découvrez  [Teratak-Himpunan-asb-financing](https://lecoderon.github.io/Teratak-Himpunan-asb-financing/)
 
 ## Points Forts
 
@@ -9,13 +9,13 @@ Bienvenue sur le site du *Teratak Himpunan ASB* ! Explorez les compétences et l
 - **Design Épuré :** Une conception soignée et épurée pour mettre en valeur les projets et les réalisations du marketeur.
 - **Interactivité avec JavaScript :** Des fonctionnalités interactives grâce à JavaScript pour une expérience utilisateur plus engageante.
 - **Adapté à Tous les Dispositifs :** Le site est entièrement responsive, assurant une expérience utilisateur optimale sur tous les appareils.
-- **Présentation Vidéo sur YouTube :** Visionnez le portfolio en action sur [ce lien]([lien_youtube](https://lecoderon.github.io/Teratak-Himpunan-asb-financing/)) pour une visite virtuelle.
+- **Présentation Vidéo sur YouTube :** Visionnez le portfolio en action sur [Teratak-Himpunan-asb-financing](https://lecoderon.github.io/Teratak-Himpunan-asb-financing/) pour une visite virtuelle.
 - **Contact Direct sur WhatsApp :** Besoin d'informations ou de discuter de projets ? Contactez directement le marketeur via le bouton WhatsApp implémenter sur le site.
 
 
 ## Découvrez le Portfolio
 
-Explorez le portfolio du *Teratak Himpunan ASB* en visitant[ce lien]([lien_youtube](https://lecoderon.github.io/Teratak-Himpunan-asb-financing/)). N'hésitez pas à vous abonner pour plus d'informations sur les services de ce marketeur talentueux !
+Explorez le portfolio du *Teratak Himpunan ASB* en visitant [Teratak-Himpunan-asb-financing](https://lecoderon.github.io/Teratak-Himpunan-asb-financing/). N'hésitez pas à vous abonner pour plus d'informations sur les services de ce marketeur talentueux !
 
 ## Comment Contacter
 
