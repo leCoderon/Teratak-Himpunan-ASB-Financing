@@ -19,5 +19,5 @@ Explorez le portfolio du *Teratak Himpunan ASB* en visitant [Teratak-Himpunan-as
 
 ## Comment Contacter
 
-Si vous souhaitez en savoir plus sur les services proposés ou discuter de collaborations potentielles, n'hésitez pas à contacter le *Teratak Himpunan ASB* à [camara9ismael@gmail.com]. Merci de visiter ce portfolio dédié au marketing malaisien ! 🌟
+Si vous souhaitez en savoir plus ou discuter de collaborations potentielles, n'hésitez pas à me contacter à l'adresse email [camara9ismael@gmail.com]. Merci de visiter ce portfolio dédié au marketing malaisien ! 🌟
 
