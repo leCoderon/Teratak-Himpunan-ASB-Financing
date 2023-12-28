@@ -1,6 +1,6 @@
 # Teratak Himpunan ASB - Découvrez les Services Marketing 🚀
 
-Bienvenue sur le site du *Teratak Himpunan ASB* ! Explorez les compétences et les services d'un marketeur malaisien passionné. Découvrez le portfolio sur [ce lien]([https://lecoderon.github.io/Teratak-Himpunan-asb-financing/].
+Bienvenue sur le site du *Teratak Himpunan ASB* ! Explorez les compétences et les services d'un marketeur malaisien passionné. Découvrez le portfolio sur [ce lien]([https://lecoderon.github.io/Teratak-Himpunan-asb-financing/]).
 
 ## Points Forts
 
